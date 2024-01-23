@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xeeshanmohammad
+- 👋 Hi, I’m Mohammad Zeeshan
 - 👀 I’m interested in backend + frontend technology💛
 - 🌱 I’m currently working as MERN Stack Developer
 - 💞️ I’m looking to collaborate on MERN Stack Development
