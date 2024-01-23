@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohammad Zeeshan
+- 👋 Hi, I’m Mohammad Zeeshan working as MERN Stack Developer 🚀
 - 👀 I’m interested in backend + frontend technology💛
-- 🌱 I’m currently working as MERN Stack Developer
-- 💞️ I’m looking to collaborate on MERN Stack Development
+- 🌱 I’m currently working as MERN Stack Developer 🚀
+- 💞️ I’m looking to collaborate on MERN Stack Development ❣
 - 📫 How to reach me ... Go through 📧 - zeeshanmohammad.se@gmail.com
 
 <!---
